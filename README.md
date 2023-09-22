@@ -24,9 +24,7 @@ Runs the app in the development mode.
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-
 ### `npm test`
-
 
 ### `npm run build`
 
@@ -35,4 +33,4 @@ The build is minified and the filenames include the hashes.\
 
 Your app is ready to be deployed!
 
-### See the deployed application here: https://white-coast-06fdc0410.3.azurestaticapps.net/
+### See the deployed application here: https://calm-frangollo-7e8cf1.netlify.app/
